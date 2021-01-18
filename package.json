@@ -7,6 +7,9 @@
     "bugs": {
         "url": "https://github.com/jrieken/bisectdemo/issues"
     },
+    "repository": {
+        "url": "https://github.com/jrieken/bisectdemo"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
