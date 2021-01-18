@@ -1,0 +1,23 @@
+{
+    "name": "bisectdemo",
+    "displayName": "Extension Bisect Demo",
+    "publisher": "jrieken",
+    "description": "This extension is annoying and motivates you to use F1 > Start Extension Bisect",
+    "version": "0.0.1",
+    "bugs": {
+        "url": "https://github.com/jrieken/bisectdemo/issues"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "*"
+    ],
+    "main": "/extension.js",
+    "devDependencies": {
+        "@types/vscode": "1.52.0"
+    }
+}
